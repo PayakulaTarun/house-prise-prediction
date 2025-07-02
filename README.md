@@ -94,7 +94,7 @@ Linear Regression ~1,300,000 ~1,800,000 ~0.78
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/house-price-prediction.git
+git clone https://github.com/PayakulaTarun/house-prise-prediction.git
 cd house-price-prediction
 Install dependencies:
 
